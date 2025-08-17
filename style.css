@@ -87,3 +87,15 @@ a:hover {
 .filled {
   background: #666666;
 }
+.bar {
+  background: #eee;
+  height: 8px;
+  border-radius: 5px;
+  width: 200px;
+  margin-top: 4px;
+}
+.level {
+  background: #4cafef;
+  height: 100%;
+  border-radius: 5px;
+}
