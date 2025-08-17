@@ -76,3 +76,14 @@ a:hover {
         font-size: 2rem;
     }
 }
+.dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin-left: 3px;
+  border-radius: 50%;
+  background: #ccc;
+}
+.filled {
+  background: #4cafef;
+}
